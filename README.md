@@ -15,11 +15,13 @@ I'm a software engineer focused on building scalable and user-friendly applicati
 I enjoy creating smooth user experiences, maintainable architectures, and high-performance applications that feel clean and intuitive.
 
 ### Current Focus
-- Performance Optimization
-- Advanced React Native Architecture
-- Backend System Design
-- Scalable Frontend Structures
-- Better Developer Experience
+
+* Performance Optimization
+* Advanced React Native Architecture
+* Android & Kotlin Development
+* Backend System Design
+* Scalable Frontend Structures
+* Better Developer Experience
 
 <br clear="right"/>
 
@@ -28,25 +30,31 @@ I enjoy creating smooth user experiences, maintainable architectures, and high-p
 ## 🚀 Expertise
 
 ### 📱 Mobile Development
-React Native • Expo • Android TV Applications • Smart TV Interfaces • Cross-platform Apps
+
+React Native • Expo • Android • Kotlin • Android TV Applications • Smart TV Interfaces • Cross-platform Apps
 
 ### 🌐 Frontend Development
+
 React.js • Next.js • TypeScript • JavaScript • Redux • Redux Toolkit
 
-### ⚙ Backend & Database
-Node.js • GraphQL • Prisma ORM • REST APIs • MySQL
+### ⚙ Backend & Networking
+
+Node.js • GraphQL • REST APIs • OkHttp • Retrofit • Prisma ORM • MySQL
 
 ### 🛠 Tools & Workflow
+
 Git • GitHub • Postman • Figma • Android Studio
 
 ---
 
 ## 💼 What I Build
 
-- Modern Web Applications  
-- Dashboard & Admin Systems  
-- Real-time User Experiences  
-- Scalable Frontend Architectures  
+* Modern Web Applications
+* Dashboard & Admin Systems
+* Real-time User Experiences
+* Scalable Frontend Architectures
+* Cross-platform Mobile Applications
+* Android Applications
 
 ## 🔥 Contribution Activity
 
@@ -58,11 +66,12 @@ Git • GitHub • Postman • Figma • Android Studio
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lamia-fatiha  
-- 🐙 GitHub: https://github.com/lamia-xeon  
-- 📧 Email: f6lamia@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/lamia-fatiha
+* 🐙 GitHub: https://github.com/lamia-xeon
+* 📧 Email: [f6lamia@gmail.com](mailto:f6lamia@gmail.com)
 
 ---
 
 ```bash
 git commit -m "Ship fast. Keep architecture clean. Make user experience effortless."
+```
