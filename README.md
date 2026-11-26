@@ -106,38 +106,14 @@ I'm a software engineer specializing in **mobile, web and game development**, fo
   </tr>
 </table>
 
+<br/>
+
 ## 🔭 Current Focus
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>⚡ Performance</h4>
-      <sub>Faster, smoother applications</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🏗️ Architecture</h4>
-      <sub>Advanced React Native and scalable frontend structures</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🤖 Android</h4>
-      <sub>Deeper Kotlin development</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>🎮 Games</h4>
-      <sub>Game development</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🗄️ Backend</h4>
-      <sub>System design</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>✨ Developer Experience</h4>
-      <sub>Better workflows and tooling</sub>
-    </td>
-  </tr>
-</table>
+<img width="100%" src="./focus.svg" alt="Current focus. Performance: Faster, smoother applications. Architecture: Advanced React Native and scalable frontend structures. Android: Deeper Kotlin development. Games: Game development. Backend: System design. Developer Experience: Better workflows and tooling." />
+
+<br/>
+
 
 ## 🔥 Contribution Activity
 
