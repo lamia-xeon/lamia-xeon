@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Lamia Fatiha, Software Engineer, Mobile and Web">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Lamia Fatiha, Software Engineer, Mobile, Web and Games">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#1a1b27"/>
@@ -15,6 +15,6 @@
   </g>
   <g text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">
     <text x="600" y="98" font-size="54" font-weight="700" fill="#ffffff">Lamia Fatiha</text>
-    <text x="600" y="140" font-size="22" letter-spacing="2" fill="#d5dcff">Software Engineer  •  Mobile &amp; Web</text>
+    <text x="600" y="140" font-size="22" letter-spacing="2" fill="#d5dcff">Software Engineer  •  Mobile, Web &amp; Games</text>
   </g>
 </svg>
