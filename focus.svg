@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="242" viewBox="0 0 840 242" role="img" aria-label="Current focus. Performance: Faster, smoother applications. Architecture: Advanced React Native and scalable frontend structures. Android: Deeper Kotlin development. Games: Game development. Backend: System design. Developer Experience: Better workflows and tooling.">
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <rect x="0" y="0" width="268" height="112" rx="12" fill="#1a1b27"/>
+    <rect x="112" y="16" width="44" height="4" rx="2" fill="#7aa2f7"/>
+    <text x="134" y="50" font-size="18" font-weight="700" fill="#ffffff">Performance</text>
+    <text x="134" y="76" font-size="14" fill="#c0caf5">Faster, smoother</text>
+    <text x="134" y="96" font-size="14" fill="#c0caf5">applications</text>
+    <rect x="286" y="0" width="268" height="112" rx="12" fill="#1a1b27"/>
+    <rect x="398" y="16" width="44" height="4" rx="2" fill="#bb9af7"/>
+    <text x="420" y="50" font-size="18" font-weight="700" fill="#ffffff">Architecture</text>
+    <text x="420" y="76" font-size="14" fill="#c0caf5">Advanced React Native and</text>
+    <text x="420" y="96" font-size="14" fill="#c0caf5">scalable frontend structures</text>
+    <rect x="572" y="0" width="268" height="112" rx="12" fill="#1a1b27"/>
+    <rect x="684" y="16" width="44" height="4" rx="2" fill="#73daca"/>
+    <text x="706" y="50" font-size="18" font-weight="700" fill="#ffffff">Android</text>
+    <text x="706" y="76" font-size="14" fill="#c0caf5">Deeper Kotlin</text>
+    <text x="706" y="96" font-size="14" fill="#c0caf5">development</text>
+    <rect x="0" y="130" width="268" height="112" rx="12" fill="#1a1b27"/>
+    <rect x="112" y="146" width="44" height="4" rx="2" fill="#ff9e64"/>
+    <text x="134" y="180" font-size="18" font-weight="700" fill="#ffffff">Games</text>
+    <text x="134" y="206" font-size="14" fill="#c0caf5">Game development</text>
+    <rect x="286" y="130" width="268" height="112" rx="12" fill="#1a1b27"/>
+    <rect x="398" y="146" width="44" height="4" rx="2" fill="#7dcfff"/>
+    <text x="420" y="180" font-size="18" font-weight="700" fill="#ffffff">Backend</text>
+    <text x="420" y="206" font-size="14" fill="#c0caf5">System design</text>
+    <rect x="572" y="130" width="268" height="112" rx="12" fill="#1a1b27"/>
+    <rect x="684" y="146" width="44" height="4" rx="2" fill="#f7768e"/>
+    <text x="706" y="180" font-size="18" font-weight="700" fill="#ffffff">Developer Experience</text>
+    <text x="706" y="206" font-size="14" fill="#c0caf5">Better workflows</text>
+    <text x="706" y="226" font-size="14" fill="#c0caf5">and tooling</text>
+  </g>
+</svg>
